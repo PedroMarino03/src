@@ -58,7 +58,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Enviar pull requests
 
 ## 📫 Contato
-- Seu Nome
+- Pedro Marino
 - LinkedIn: [https://www.linkedin.com/in/pedromarino1702/]
 - Email: [pedro.marino23@gmail.com]
 
