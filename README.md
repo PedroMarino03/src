@@ -51,9 +51,6 @@ Para modificar os serviços monitorados:
 2. Altere os nomes dos serviços
 3. Ajuste os intervalos conforme necessário
 
-## 📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes
-
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para:
 - Reportar bugs
